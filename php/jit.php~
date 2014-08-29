@@ -1,6 +1,0 @@
-<?php
-define("MAX_LENGTH", 6);
-$password = hash("sha512", 'tanveer123'); 
-echo $password;
-
-?>

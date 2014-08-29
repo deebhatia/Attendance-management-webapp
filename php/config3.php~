@@ -1,9 +1,0 @@
-<?php
-	$database="attendance";
-	$server="localhost";
-	$db_user="****";
-	$db_pass="jitin123";
-	$table="attendance_report";
-	$link= mysql_connect($server, $db_user, $db_pass);
-	mysql_select_db($database,$link);
-?>
