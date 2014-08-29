@@ -1,0 +1,22 @@
+.a {
+	border:2px solid ;
+	width: 98%;
+	height: 80px;
+	background-color: #c3c3c3;
+	font :sans-serif;
+	padding-left:1px;
+	margin: 1%;
+	}
+	
+.a img {
+	
+	float: left; 
+	margin:120px ;
+	}	
+	
+.a p {
+	font : sans-serif;
+	color: #005566;
+	font-size: 50px;
+	margin-left: 90px;
+}	
